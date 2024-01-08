@@ -32,6 +32,7 @@ function App() {
           <Route path="/signup" element={<SignUp/>}/>
           <Route path="/signin" element={<SingIn/>}/>
           <Route path="/mybook" element={<Busket/>}/>
+          <div>dwadwa</div>
         </Routes>
       </div>
     </div>
